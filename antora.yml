@@ -1,6 +1,10 @@
 name: component-b
 title: Component B
-version: 1.0
-start_page: welcome.adoc
+version: 1.5.6
+start_page: inline-text-formatting.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
 nav:
-- nav.adoc
+- ROOT/nav.adoc
