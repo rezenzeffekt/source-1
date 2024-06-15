@@ -1,2 +1,0 @@
-* xref:inline-text-formatting.adoc[]
-* xref:special-characters.adoc[]
