@@ -1,6 +1,6 @@
 name: component-b
 title: Component B
-version: 1.0.0
+version: v2.0
 start_page: welcome.adoc
 asciidoc:
   attributes:
