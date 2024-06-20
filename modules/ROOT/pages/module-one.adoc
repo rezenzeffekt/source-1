@@ -46,6 +46,7 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 |===
 
 = Creating table with colored cell
+:nofooter:
 
 ++++
 <style>
