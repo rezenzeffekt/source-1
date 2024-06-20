@@ -49,7 +49,7 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 
 ++++
 <style>
-td.tableblock {
+td.tableblock .bg-yellow {
     background-color: yellow;
 }
 </style>
@@ -57,6 +57,7 @@ td.tableblock {
 
 [cols="^1a,^4a,^1a,^4a,^1a,^2a,^1a,^1a,^1a"]
 |===
+[.bg-yellow]
 |
 11
 
