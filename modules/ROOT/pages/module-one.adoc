@@ -52,6 +52,9 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 td.tableblock .bg-yellow p {
     background-color: yellow;
 }
+.bg-green{
+    background-color: lime;
+}
 </style>
 ++++
 
@@ -61,7 +64,9 @@ td.tableblock .bg-yellow p {
 [.bg-yellow]
 11
 
-|872349ae
+[.bg-green]
+|
+872349ae
 
 |11
 
