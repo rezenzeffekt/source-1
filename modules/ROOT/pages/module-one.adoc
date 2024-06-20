@@ -45,7 +45,7 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 |2016-03-16
 |===
 
-= Creating table with colored cell
+== Table 2
 
 ++++
 <style>
