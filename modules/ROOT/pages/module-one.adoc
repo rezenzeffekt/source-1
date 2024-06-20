@@ -19,3 +19,28 @@ To create a cross reference *to the latest version of this page from a page in C
 === Target a specific version of this page
 
 To create a cross reference *to version 1.0 of this page from a page in Component A*, the xref syntax would be `\xref:1.0@component-b:module-one:overview.adoc[]`.
+
+== Table
+
+[cols="3,^1,^1,^1,^1,^1,^1,^2"]
+|===
+|Language |HTML export tool |HTML import tool |Tables |Link titles |`class` attribute |`id` attribute |Release date
+
+|https://en.wikipedia.org/wiki/Markdown[Markdown]	
+|Yes	
+|No	
+|?	
+|auto	
+|Yes/No	
+|Yes	
+|2004-03-19
+
+|https://en.wikipedia.org/wiki/WhatsApp[WhatsApp]	
+|No	
+|Yes/No	
+|Yes
+|No	
+|?	
+|auto	
+|2016-03-16
+|===
