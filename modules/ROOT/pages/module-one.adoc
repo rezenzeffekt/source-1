@@ -57,7 +57,9 @@ td.tableblock .bg-yellow p {
 
 [cols="^1a,^4a,^1a,^4a,^1a,^2a,^1a,^1a,^1a"]
 |===
-|[.bg-yellow]#11#
+|
+[.bg-yellow]
+11
 
 |872349ae
 
