@@ -57,7 +57,7 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 
 [cols="^1a,^4a,^1a,^4a,^1a,^2a,^1a,^1a,^1a"]
 |===
-|[.bg-yellow]#11#
+[.bg-yellow]#|#11
 
 |872349ae
 
