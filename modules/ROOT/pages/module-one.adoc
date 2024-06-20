@@ -49,6 +49,9 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 
 ++++
 <style>
+th.tableblock:has(> span.bg-yellow) {
+    background-color: yellow;
+} 
 .bg-yellow {
     background-color: yellow;
 }
