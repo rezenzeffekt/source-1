@@ -1,4 +1,5 @@
 = Module One
+:stylesheet: css.css
 
 ++++
 include::attachment$css.css[]
