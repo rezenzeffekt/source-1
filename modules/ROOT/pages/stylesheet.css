@@ -1,0 +1,6 @@
+th.tableblock:has(> span.bg-yellow) {
+    background-color: yellow;
+} 
+.bg-yellow {
+    background-color: yellow;
+}
