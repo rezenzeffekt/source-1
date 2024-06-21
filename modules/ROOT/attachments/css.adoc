@@ -1,4 +1,3 @@
-++++
 <style>
 th.tableblock:has(> span.bg-yellow) {
     background-color: yellow;
@@ -7,4 +6,3 @@ th.tableblock:has(> span.bg-yellow) {
     background-color: yellow;
 }
 </style>
-++++
