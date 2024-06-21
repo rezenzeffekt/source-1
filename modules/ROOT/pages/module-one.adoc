@@ -1,9 +1,5 @@
 = Module One
 
-++++
-include::attachment$css.html[]
-++++
-
 This is version *{page-component-display-version}* of Module One in Component B.
 
 == Page source
@@ -25,6 +21,10 @@ To create a cross reference *to the latest version of this page from a page in C
 To create a cross reference *to version 1.0 of this page from a page in Component A*, the xref syntax would be `\xref:1.0@component-b:module-one:overview.adoc[]`.
 
 == Table
+
+++++
+include::attachment$css.html[]
+++++
 
 [cols="2,^1,^1,^1,^1,^1,^1,^2"]
 |===
