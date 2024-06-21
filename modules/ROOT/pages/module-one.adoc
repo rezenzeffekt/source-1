@@ -1,4 +1,5 @@
 = Module One
+:stylesheet: stylesheet.css
 
 This is version *{page-component-display-version}* of Module One in Component B.
 
@@ -46,17 +47,6 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 |===
 
 == Table 2
-
-++++
-<style>
-th.tableblock:has(> span.bg-yellow) {
-    background-color: yellow;
-} 
-.bg-yellow {
-    background-color: yellow;
-}
-</style>
-++++
 
 [cols="^1,^4a,^1a,^4a,^1a,^2a,^1a,^1a,^1a"]
 |===
