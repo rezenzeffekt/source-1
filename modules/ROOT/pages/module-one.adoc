@@ -1,7 +1,7 @@
 = Module One
 
 ++++
-include::attachments$css.css[]
+include::attachment$css.css[]
 ++++
 
 This is version *{page-component-display-version}* of Module One in Component B.
