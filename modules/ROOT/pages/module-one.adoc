@@ -26,7 +26,7 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 include::attachment$table.html[]
 ++++
 
-[cols="3,^1,^1,^1,^1,^1,^1,^2"]
+[cols="2,^1,^1,^1,^1,^1,^1,^2"]
 [#sorting]
 |===
 |Language |HTML export tool |HTML import tool |Tables |Link titles |`class` attribute |`id` attribute |Release date
