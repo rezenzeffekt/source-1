@@ -22,10 +22,6 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 
 == Table
 
-++++
-include::attachment$table.html[]
-++++
-
 [cols="2,^1,^1,^1,^1,^1,^1,^2"]
 [#sorting]
 |===
@@ -74,6 +70,4 @@ include::attachment$table.html[]
 
 |===
 
-++++
-include::attachment$sorting.html[]
-++++
+
