@@ -23,7 +23,7 @@ To create a cross reference *to version 1.0 of this page from a page in Componen
 == Table
 
 ++++
-include::attachment$css.html[]
+include::attachment$table.html[]
 ++++
 
 [cols="2,^1,^1,^1,^1,^1,^1,^2"]
@@ -53,7 +53,8 @@ include::attachment$css.html[]
 
 [cols="^1,^4a,^1a,^4a,^1a,^2a,^1a,^1a,^1a"]
 |===
-|[.bg-yellow]#11#
+|
+[.bg-yellow]#11#
 
 |872349ae
 
@@ -72,3 +73,7 @@ include::attachment$css.html[]
 |14!
 
 |===
+
+++++
+include::attachment$sorting.html[]
+++++
