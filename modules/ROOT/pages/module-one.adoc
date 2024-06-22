@@ -29,7 +29,7 @@ include::attachment$table.html[]
 [cols="2,^1,^1,^1,^1,^1,^1,^2"]
 [#sorting]
 |===
-|Language |HTML export tool |HTML import tool |Tables |Link titles |`class` attribute |`id` attribute |Release date
+|a |b |c |d |e |f |g |h
 
 |https://en.wikipedia.org/wiki/Markdown[Markdown]	
 |Yes	
