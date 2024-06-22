@@ -27,6 +27,7 @@ include::attachment$table.html[]
 ++++
 
 [cols="2,^1,^1,^1,^1,^1,^1,^2"]
+[#sorting]
 |===
 |Language |HTML export tool |HTML import tool |Tables |Link titles |`class` attribute |`id` attribute |Release date
 
